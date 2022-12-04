@@ -1,0 +1,58 @@
+body {
+background-size: cover;
+}
+#img-me {
+height: 300px;
+width: 300px;
+position: absolute;
+left: 30%;
+}
+h1 {
+    position: relative;
+    left: 30%; 
+}
+#f1-left {
+    width: 300px;
+    height: 100vh;
+    background-color: black;
+    position: absolute;
+    top: 1;
+    color: white;
+    left: 1;
+}
+#img-left {
+    width: 130px;
+    height: 120px;
+    border-radius: 60px;
+    position: relative;
+    left: 10%;
+}
+#folder {
+height: 30px;
+width: 30px;
+position: relative;
+left: 2%;
+
+}
+#left-link {
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    font-weight: 300;
+}
+#home-gallary {
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    right: 1;
+    bottom: 1;
+}
+
+
+
+
+
+
+
+
+
